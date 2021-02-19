@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Kevin Convery
-tagline: Graphic Designer
+tagline: Full-Stack Developer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
